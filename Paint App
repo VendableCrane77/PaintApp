@@ -1,0 +1,36 @@
+<!DOCTYPE html>https://github.com/VendableCrane77/PaintApp/tree/main
+<html>
+<head>
+<title>Paint App</title>
+<style>
+body{
+margin:0px;
+}
+.pad{
+padding:25px;
+}
+.header{
+background-color:lightblue;
+color:black;
+height:100px;
+font-size:36pt;
+text-align:center;
+}
+.main-text{
+width:60%;
+float:left;
+background-color:white;
+}
+</style>
+</head>
+<body>
+<div class="header pad">
+Paint App
+</div>
+<div class="main-text pad">
+<p>
+Unleash your creativity with this home-made Paint App! Totally original with P5JS! Click <a href="https://editor.p5js.org/0943kylerteoh/full/3zSem5dfO"><strong>here</strong></a> to start doodling! 
+</p>
+</div
+</body>
+</html>
